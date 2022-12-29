@@ -1,0 +1,105 @@
+ /*All Element 
+* {
+	background-color: BLACK;
+	color: #FFF; */ 
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 35px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+p span {
+	font-weight: bold;
+}
+
+ .intro {
+	/* CLASS */
+	background-image: url(https://contentstatic.techgig.com/photo/msid-86001236,width-400,resizemode-4/Coding-for-students-Learn-with-these-7-apps.jpg);
+	background-color: green;
+	height: 650px;
+	background-repeat: no-repeat;
+	background-size: cover; /* or contain*/
+	color: #FFF; 
+
+}
+
+.text-white {
+	color: #FFF;
+}
+
+.intro h1 {
+	color: #FFF;
+	border-left: solid;
+	border-color: #df59a1;
+	border-right: solid;
+	border-bottom: dashed;
+	padding: 50px;
+	padding-bottom: 20px;
+}
+
+.intro > p {
+	font-size: 20px;
+}
+
+.intro button {
+	background-color: #df59a1;
+	color: #FFF;
+	border-width: 5px;
+	border-top: dotted;
+	border-bottom: dashed;
+	border-left: solid;
+	border-right: solid;
+	border-radius: 15px;
+	margin-top:50px ;
+}
+
+.testimonial h1 {
+	font-weight: bold;
+}
+
+.testimonial {
+	padding: 30px;
+	width: auto;
+	/*height: 100px;*/
+	background-color: #2196F3;
+}
+
+.Outline h1 {
+	font-weight: bold;
+}
+
+.Outline {
+	padding: 30px;
+	border: 2px solid #000;
+	outline: 5px solid green;
+	outline-style: dotted ;
+	background-color: #2196F3;
+}
+
+
+
+
+.text h1 {
+	font-weight: bold;
+	text-shadow: 3px 2px #000;
+}
+
+.text {
+	padding: 30px;
+	background-color: #2296F3;
+	color: #FFF;
+	text-align: left;
+	/*text-decoration: none;*/
+	/*text-transform: capitalize;
+	text-indent: 50px;*/
+	/*letter-spacing:10px;*/
+	/*line-height: 1.8;*/
+	direction: left;
+
+
+}
